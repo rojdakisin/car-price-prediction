@@ -2,7 +2,7 @@
 
 ## Makine Öğrenmesi ile Araç Fiyat Tahmini
 
-## 🇹🇷 Türkçe Açıklama
+## 🇹🇷 
 
 ### Proje Amacı
 
@@ -73,7 +73,7 @@ Sonuçlar modelin güçlü genelleme kabiliyetine sahip olduğunu göstermektedi
 
 ---
 
-# 🇬🇧 English Description
+# 🇬🇧 
 
 ### Project Objective
 
