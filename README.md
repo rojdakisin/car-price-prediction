@@ -1,6 +1,6 @@
 # Car Price Prediction with Machine Learning
 
-# Makine Öğrenmesi ile Araç Fiyat Tahmini
+## Makine Öğrenmesi ile Araç Fiyat Tahmini
 
 ## 🇹🇷 Türkçe Açıklama
 
@@ -34,12 +34,12 @@ Hedef değişken:
 
 * Veri temizleme ve ön işleme
 * Eksik değer analizi
-* One-Hot Encoding ile kategorik değişken dönüşümü
+* Label Encoding ile kategorik değişken dönüşümü
 * Train/Test ayrımı
+* Decision Tree Regression modeli
 * Random Forest Regression modeli
 * R² performans ölçümü
 * 5-Fold Cross Validation
-* Feature Importance analizi
 
 ---
 
@@ -105,12 +105,12 @@ Target variable:
 
 * Data cleaning and preprocessing
 * Missing value handling
-* One-Hot Encoding for categorical variables
+* Label Encoding for categorical variables
 * Train/Test split
+* Decision Tree Regression
 * Random Forest Regression
 * R² performance metric
 * 5-Fold Cross Validation
-* Feature importance analysis
 
 ---
 
